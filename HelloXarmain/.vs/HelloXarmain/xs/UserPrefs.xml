@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{5A891198-8454-47A8-BB03-1A849C1D1CDA}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloXarmain AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MainActivity.cs" Line="43" Column="10" />
+      <File FileName="Resources/Resource.designer.cs" Line="1936" Column="38" />
+      <File FileName="Resources/values/Strings.xml" Line="5" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/george/github/helloxarmain/HelloXarmain/MainActivity.cs" relfile="MainActivity.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
